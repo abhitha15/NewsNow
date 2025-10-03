@@ -1,0 +1,240 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Israel Aims to Control 75% of Gaza in Two Months, Military Says - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/world/middle-east/israel-aims-to-control-75-of-gaza-in-two-months-military-says-1f0cadfc",
+      "urlToImage": null,
+      "publishedAt": "2025-05-26T09:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Laken Kincaid",
+      "title": "Trump's push for Lumbee recognition causes concern among other Native tribes - NBC News",
+      "description": "President Donald Trump’s move toward federal recognition of the Lumbee Tribe of North Carolina fulfills a repeated promise he made on the campaign trail, but it has sparked concern from other Native American tribes about the precedent set by the different pro…",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trumps-push-lumbee-recognition-causes-concern-native-tribes-rcna208174",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250526-Lumbee-RS-7ba21d.jpg",
+      "publishedAt": "2025-05-26T09:00:00Z",
+      "content": "President Donald Trumps move toward federal recognition of the Lumbee Tribe of North Carolina fulfills a repeated promise he made on the campaign trail, but it has sparked concern from other Native A… [+5522 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Russia, Ukraine exchange drone attacks after Trump rebukes leaders - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/International/russia-ukraine-exchange-drone-attacks-after-trump-rebukes/story?id\\\\u003d122189901",
+      "urlToImage": null,
+      "publishedAt": "2025-05-26T07:54:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Ben Berkowitz",
+      "title": "Trump pauses threatened EU tariffs until July - Axios",
+      "description": "Friday's threat of a 50% tariff on more than $600 billion of goods sent a chill through markets.",
+      "url": "https://www.axios.com/2025/05/25/eu-tariffs-trump",
+      "urlToImage": "https://images.axios.com/v7Pz-Rqq54cVjexZdBqa2MsYHwE=/0x0:4000x2250/1366x768/2025/05/25/1748213585227.jpg",
+      "publishedAt": "2025-05-26T07:38:03Z",
+      "content": "Two days after threatening to impose a 50% tariff on imports from the European Union, President Trump on Sunday paused the levies until July and said talks would start \"rapidly.\"\r\nWhy it matters: The… [+1356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "North Korea arrests senior official over warship launch failure - BBC",
+      "description": "The Workers' Party official was \"largely responsible\" for the botched launch, state media said.",
+      "url": "https://www.bbc.com/news/articles/cwy3rr307qyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca8a/live/12016790-39d3-11f0-a29f-b12147ff8b6b.jpg",
+      "publishedAt": "2025-05-26T07:02:40Z",
+      "content": "North Korea has arrested a fourth official over the failed launch of a new warship that has enraged the country's leader, Kim Jong Un.\r\nRi Hyong-son, deputy director of the ruling Workers' Party's Mu… [+2529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Israeli strikes across Gaza kill 24, medics and officials say - BBC",
+      "description": "A school sheltering displaced families in central Gaza was among those hit,  two hospital directors tell the BBC.",
+      "url": "https://www.bbc.com/news/articles/cz9yjj54v3xo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9450/live/55dd4b30-3a0c-11f0-96c3-cf669419a2b0.jpg",
+      "publishedAt": "2025-05-26T06:24:33Z",
+      "content": "Rushdi Abualouf\r\nA girl stands in the ruins of the school building in Gaza City that was hit by an airstrike \r\nAt least54 Palestinians have been killed in two separate Israeli air strikes overnight, … [+4018 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Bodies of 5 skiers found on Swiss glacier near Zermatt - ABC News",
+      "description": "Swiss authorities say that the bodies of five skiers have been found on a glacier above the Swiss resort town of Zermatt",
+      "url": "https://abcnews.go.com/International/wireStory/bodies-5-skiers-found-swiss-glacier-zermatt-122175926",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2025-05-26T06:09:16Z",
+      "content": "WARSAW, Poland -- The bodies of five skiers have been found on a glacier above the Swiss resort town of Zermatt, authorities said Sunday, after two hikers reported seeing abandoned skis near the Rimp… [+457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amala Balakrishner",
+      "title": "China's BYD sees shares plunge 8% as EV maker cuts prices - CNBC",
+      "description": "Citi estimates that BYD's price reduction may have seen a 30% to 40% spike in footfall at its dealership store on May 24 and 25, from the previous weekend.",
+      "url": "https://www.cnbc.com/2025/05/26/chinas-byd-sees-shares-plunge-8percent-as-ev-maker-cuts-prices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108120783-17429039622025-03-24t122101z_785949863_rc2njdapkjcx_rtrmadp_0_byd-results.jpeg?v=1742904033&w=1920&h=1080",
+      "publishedAt": "2025-05-26T06:01:24Z",
+      "content": "Shares in BYD plunged as much as 8.25% Monday, a steep drop from their record high last week, as investors assessed the Chinese electric vehicle giant's price cuts on May 23.\r\nThe company announced o… [+1384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": null,
+      "title": "The Google Pixel 10’s colorful, artsy wallpapers just leaked in full resolution - Android Police",
+      "description": null,
+      "url": "https://www.androidpolice.com/google-pixel-10s-colorful-artsy-wallpapers-just-leaked-full-resolution/",
+      "urlToImage": null,
+      "publishedAt": "2025-05-26T05:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Maroosha Muzaffar",
+      "title": "Memorial Day mass shooting in South Carolina beach town injures at least 11 people - The Independent",
+      "description": "Horry County police believe the shooting was an ‘isolated incident’ with an investigation ongoing",
+      "url": "https://www.the-independent.com/news/world/americas/crime/south-carolina-mass-shooting-little-river-memorial-day-b2757757.html",
+      "urlToImage": "https://static.the-independent.com/2025/05/26/4/02/Screenshot-2025-05-26-092653.png?trim=0,98,0,98&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-05-26T05:04:00Z",
+      "content": "At least 11 people have been injured in a mass shooting on Sunday night in a popular South Carolina beach town, police say. \r\nThe Horry County Police Department did not disclose the conditions of any… [+1436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "author": "Georgia Nicols",
+      "title": "Horoscope for Monday, May 26, 2025 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/horoscopes/2025/05/26/horoscopes-today-monday-may-26-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "publishedAt": "2025-05-26T05:01:04Z",
+      "content": "Moon alert\r\nAvoid shopping or important decisions from 8:30 a.m. to 1 p.m. Chicago time. After that, the moon moves from Taurus into Gemini. The new moon in Gemini peaks at 10:02 p.m. Chicago time.\r\n… [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Rob Gillies",
+      "title": "King Charles III visit to Canada underscores Canada’s sovereignty to Trump - AP News",
+      "description": "King Charles III arrives in Ottawa on Monday to underscore Canada’s sovereignty to U.S. President Donald Trump. Trump’s repeated suggestion that the U.S. annex its northern neighbor prompted Prime Minister Mark Carney to invite Charles to give the speech from…",
+      "url": "https://apnews.com/article/king-charles-canada-carney-trump-parliament-speech-cfb17691de077f3a3677fe377666ace7",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1b820a3/2147483647/strip/true/crop/4902x2757+0+438/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fb2%2F948e490e8e79af965bb11ab34764%2Ff2b20c966a3540808b50b7ee4ed40079",
+      "publishedAt": "2025-05-26T04:07:00Z",
+      "content": "OTTAWA, Ontario (AP) King Charles III arrives in Ottawa this week to underscore Canadas sovereignty to U.S. President Donald Trump. \r\nTrumps repeated suggestion that the U.S. annex its northern neigh… [+3998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Katie Campione",
+      "title": "‘The Last Of Us’ Creators Break Down Season 2 Finale, Tease What’s To Come For Ellie & Abby After That Cliffhanger: “They Are Not Done” - Deadline",
+      "description": "Neil Druckmann and Craig Mazin broke down the Season 2 finale of The Last of Us and teased what's to come for Ellie and Abby",
+      "url": "http://deadline.com/2025/05/the-last-of-us-season-2-finale-recap-creators-discussion-1236410810/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/bella-ramsey_9.jpg?w=1000",
+      "publishedAt": "2025-05-26T02:00:00Z",
+      "content": "SPOILER ALERT! This post contains details from the Season 2 finale of HBO‘s The Last Of Us.\r\nThe Last Of Us Season 2 has come to an end, but Ellie and Abby’s story is far from over. \r\nSunday night’s … [+13147 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Seung Min Kim",
+      "title": "President Donald Trump hints at an announcement in the 'next two days' on Iran nuclear talks - AP News",
+      "description": "President Donald Trump is indicating that there has been progress with Iran on its nuclear program and hinted that an announcement could come in the “next two days.” Those remarks are notably more upbeat than those of the Omani mediator of the talks between t…",
+      "url": "https://apnews.com/article/donald-trump-white-house-iran-nuclear-program-d5bbd6659ef62eaf9a57bd8b7a9b7952",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bf852f2/2147483647/strip/true/crop/7000x3937+0+365/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1a%2F03%2F0e750c79c63a1a2180b1a202cfb8%2Ffa00189d6e0e403391ef3f6bc34ea189",
+      "publishedAt": "2025-05-26T01:58:00Z",
+      "content": "WASHINGTON (AP) President Donald Trump on Sunday indicated there was progress with Iran on its nuclear program and hinted that an announcement could come in the next two days.\r\nHe was notably more up… [+1034 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "Bob Pockrass",
+      "title": "Kyle Larson crashes out of both Indy 500, Coca-Cola 600: 'A bummer of a day' - FOX Sports",
+      "description": "Kyle Larson’s quest to run 1,100 miles in one day was cut short as he crashed out of both the Indianapolis 500 and Coca-Cola 600.",
+      "url": "https://www.foxsports.com/stories/motor/kyle-larson-indy-500-coca-cola-600",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/larsonleaves.jpg?ve=1&tl=1",
+      "publishedAt": "2025-05-26T01:43:00Z",
+      "content": "INDIANAPOLIS Kyle Larsons quest to run 1,100 miles in one day ended after 91 laps of the Indianapolis 500 when he wrecked just short of halfway through the race. \r\nLarson finished 27th in the Indy 50… [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bruce Y. Lee",
+      "title": "New COVID-19 Variant NB.1.8.1 Causes Surge In China, Spreading In U.S. - Forbes",
+      "description": "LP.8.1 Is currently the dominant SARS-CoV-2 variant In the U.S. But NB.1.8.1 and XFG are now spreading the fastest with the former having led to COVID-19 surges in China.",
+      "url": "https://www.forbes.com/sites/brucelee/2025/05/25/new-covid-19-variant-nb181-causes-surge-in-china-spreading-in-us/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6833b3d30f2f9fda20efcab2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-05-26T00:42:36Z",
+      "content": "The NB.1.8.1 variant of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been ... More detected in international travelers arriving at airports like LAX in Los Angeles. (Photo by … [+7153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "The people who believe that AI might become conscious - BBC",
+      "description": "With a leap in the evolution of large language models, some leading thinkers are questioning whether AI might become sentient",
+      "url": "https://www.bbc.com/news/articles/c0k3700zljjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/050b/live/ced6bd60-37ea-11f0-8519-3b5a01ebe413.png",
+      "publishedAt": "2025-05-26T00:38:27Z",
+      "content": "I step into the booth with some trepidation. I am about to be subjected to strobe lighting while music plays as part of a research project trying to understand what makes us truly human.\r\nIt's an exp… [+13224 chars]"
+    },
+    {
+      "source": {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "2025 Cannes Film Festival awards — see the full list of winners - Entertainment Weekly",
+      "description": "The 2025 Cannes Film Festival jury, including Juliette Binoche, Halle Berry, and Jeremy Strong, awarded Iranian dissident filmmaker Jafar Panahi the top honor for 'It Was a Simple Accident.'",
+      "url": "https://ew.com/2025-cannes-film-festival-awards-see-the-full-list-of-winners-11741639",
+      "urlToImage": "https://ew.com/thmb/Nd3bl9E-YEW-xJbCf0VatYf0HME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Halle-Berry-and-Juliette-Binoche-052525-b3d79e688508496e96758113234eb98c.jpg",
+      "publishedAt": "2025-05-26T00:32:37Z",
+      "content": "After 12 days packed to the gills with some of the best cinematic offerings to be found around the world, the jury of the 2025 Cannes Film Festival announced this edition's big winners.\r\nFrench scree… [+5281 chars]"
+    }
+  ]
+}
