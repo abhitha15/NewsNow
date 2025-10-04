@@ -15,18 +15,27 @@ const News = (props)=>{
         return string.charAt(0).toUpperCase() + string.slice(1);
     } 
 
-    const updateNews = async ()=> {
-        props.setProgress(10);
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; 
-        setLoading(true)
-        let data = await fetch(url);
-        props.setProgress(30);
-        let parsedData = await data.json()
-        props.setProgress(70);
-        setArticles(parsedData.articles)
-        setTotalResults(parsedData.totalResults)
-        setLoading(false)
-        props.setProgress(100);
+       const updateNews = async ()=> {
+        try {
+            props.setProgress && props.setProgress(10);
+            const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`; 
+            setLoading(true)
+            let data = await fetch(url);
+            props.setProgress && props.setProgress(30);
+            let parsedData = await data.json()
+            props.setProgress && props.setProgress(70);
+
+            const newArticles = Array.isArray(parsedData.articles) ? parsedData.articles : [];
+            setArticles(newArticles);
+            setTotalResults(parsedData.totalResults || newArticles.length || 0);
+        } catch (err) {
+            console.error('Failed to load news:', err);
+            setArticles([]);
+            setTotalResults(0);
+        } finally {
+            setLoading(false)
+            props.setProgress && props.setProgress(100);
+        }
     }
 
     useEffect(() => {
