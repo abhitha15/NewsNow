@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.news-card {
+  height: 480px;
+  overflow: hidden;
+  position: relative;
+}
+
+.news-img {
+  height: 180px;
+  object-fit: cover;
+}
+
+
+.news-desc {
+  max-height: 110px; 
+  overflow-y: auto;
+  padding-right: 6px; 
+}
+
+
+.news-desc::-webkit-scrollbar {
+  width: 6px;
+}
+.news-desc::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.2);
+  border-radius: 3px;
+}
+
+
+@media (max-width: 576px) {
+  .news-card {
+    height: auto; 
+  }
+  .news-img {
+    height: 160px;
+  }
+}
